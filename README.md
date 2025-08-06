@@ -27,6 +27,6 @@ git clone https://github.com/Gabriel-afk-9/other_exercises.git
 cd other_exercises
 
 # Execute o arquivo desejado:
-python3 Lista.py
-python3 Polinomio.py
-python3 num_complex.py
+python Lista.py
+python Polinomio.py
+python num_complex.py
